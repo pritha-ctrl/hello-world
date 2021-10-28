@@ -1,3 +1,3 @@
 # hello-world
 ji  repository in here 
-this is my first commit 
+ok i was editing in hte main bracnh gotch ya ! 
